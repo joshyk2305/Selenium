@@ -15,6 +15,10 @@ public class PrintAnInteger {
 		System.out.println("Enter 2nd Number");
 		long l = sc.nextLong();
 		System.out.println("Entered Number is :"+l);
+		
+		System.out.println("Enter 3rd Number");
+		float f = sc.nextFloat();
+		System.out.println("Entered Number is :"+f);
 	}
 
 }
